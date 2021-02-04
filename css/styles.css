@@ -1,0 +1,50 @@
+body{
+	padding-left: 700px;
+	padding-right: 700px;
+	
+}
+h1{
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 20px;
+}
+p{
+	font-size: 20px;
+	line-height: 1.5;
+}
+h2{
+	font-size: 34px;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 20px;
+	padding-top: 24px;
+}
+.cat{
+	font-family: 'Dancing Script', cursive;
+}
+.cat-story{
+	font-family: 'Raleway', sans-serif;
+	padding-bottom: 10px;
+}
+.lion{
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+
+}
+.lion-story{
+	font-family: 'Open Sans', sans-serif;
+}
+.oak{
+	font-family: 'Zhi Mang Xing', cursive;
+}
+.oak-story{
+	font-family: 'Roboto', sans-serif;
+}
+.sheep{
+	font-family: 'Volkhov', serif;
+	font-size: 26px;
+}
+.sheep-story{
+	font-family: 'Lato', sans-serif;
+}
